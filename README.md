@@ -19,7 +19,6 @@
 
 ## 🚀 About Me
 
-```text
 🎓 B.Tech CSE @ SKIT Jaipur
 💻 Full Stack Developer
 🤖 AI/ML Enthusiast
@@ -31,6 +30,8 @@
 🤖 Interested in Artificial Intelligence, Machine Learning & Explainable AI
 🧩 Practicing DSA and competitive programming
 🚀 Love turning ideas into working applications
+
+---
 ⚡ Tech Stack
 <div align="center">
 Languages
