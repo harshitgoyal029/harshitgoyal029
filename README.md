@@ -58,7 +58,7 @@ AI / ML
 💻 Coding Activity
 <div align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=harshitgoyal029&theme=radical&hide_border=true" /> </div>
 🌐 Let's Connect
-<div align="center"> <a href="https://github.com/harshitgoyal029"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/harshit-goyal-125a65349/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:goyalharshit029@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <!-- ADD YOUR OTHER SOCIAL HANDLES HERE --> <a href="YOUR_INSTAGRAM_URL"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> <a href="YOUR_X_URL"> <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/> </a> <a href="YOUR_YOUTUBE_URL"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/> </a> <a href="YOUR_TIKTOK_URL"> <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/> </a> </div>
+<div align="center"> <a href="https://github.com/harshitgoyal029"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/harshit-goyal-125a65349/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:goyalharshit029@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
 🐍 Watch My Contributions Get Eaten
 <div align="center"> <img src="https://raw.githubusercontent.com/harshitgoyal029/harshitgoyal029/output/github-contribution-grid-snake.svg" /> </div>
 💭 Developer Mindset
@@ -68,5 +68,9 @@ AI / ML
 
 </div>
 <div align="center">
+
 ⭐ If you find my projects interesting, consider giving them a star!
-<br> <img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/> </div> ```
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff69b4&height=120&section=footer"/> </div> ```
