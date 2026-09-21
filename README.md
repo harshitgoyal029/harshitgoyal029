@@ -48,16 +48,15 @@ AI / ML
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" /> </div>
 🧠 Featured Projects
 <div align="center"> <table> <tr> <td width="50%"> <h3>🫀 CVD-XAI</h3> <p> Explainable Cardiovascular Risk Assessment system using Machine Learning. </p> <p> <b>React • FastAPI • Python • ML • SHAP • LIME</b> </p> <a href="https://cardio-risk-ai-fawn.vercel.app/"> <img src="https://img.shields.io/badge/🚀%20Live%20Demo-ff69b4?style=for-the-badge"/> </a> </td> <td width="50%"> <h3>📚 Book Management API</h3> <p> REST API with authentication, CRUD operations and a web interface. </p> <p> <b>FastAPI • SQLAlchemy • SQLite • JWT</b> </p> <a href="https://book-api-ashy.vercel.app/"> <img src="https://img.shields.io/badge/🚀%20Live%20Demo-ff69b4?style=for-the-badge"/> </a> </td> </tr> <tr> <td width="50%"> <h3>🤖 AI Proposal Automation</h3> <p> AI-powered system that generates proposals from uploaded documents. </p> <p> <b>React • FastAPI • Gemini • Python • NLP</b> </p> </td> <td width="50%"> <h3>🌆 SmartSphere</h3> <p> Interactive city dashboard with weather, maps, country information and analytics. </p> <p> <b>HTML • CSS • JavaScript • APIs • Charts</b> </p> </td> </tr> </table> </div>
-📊 GitHub Statistics
-<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=harshitgoyal029&show_icons=true&theme=radical&hide_border=true&rank_icon=github" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshitgoyal029&layout=compact&theme=radical&hide_border=true" /> </div>
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshitgoyal029&theme=radical&hide_border=true" />
+
+</div>
 🔥 Contribution Streak
 <div align="center"> <img src="https://streak-stats.demolab.com?user=harshitgoyal029&theme=radical&hide_border=true" /> </div>
-📈 Contribution Graph
-<div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshitgoyal029&theme=redical&hide_border=true&area=true" /> </div>
-🏆 GitHub Achievements
-<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=harshitgoyal029&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1" /> </div>
-💻 Coding Activity
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/wakatime?username=harshitgoyal029&theme=radical&hide_border=true" /> </div>
 🌐 Let's Connect
 <div align="center"> <a href="https://github.com/harshitgoyal029"> <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/harshit-goyal-125a65349/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="mailto:goyalharshit029@gmail.com"> <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a> </div>
 🐍 Watch My Contributions Get Eaten
